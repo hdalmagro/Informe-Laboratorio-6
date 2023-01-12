@@ -49,4 +49,10 @@ Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 # 5. VIDEO
 # 6. CONCLUSIONES
+ -La resistencia de thevenin marca el límite para la Máxima Transferencia de potencia efectva presente    en cualquier resistor.
+ - Ningún otro punto de resistencia (sea inferior o superior a la de Thevenin) tendrá mayor          tranferencia de potencia que en el valor de la resistencia de Thevenin.
+
+
+
 # 7. BIBLIOGRAFIA
+Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
