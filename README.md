@@ -7,6 +7,15 @@ Ing. Darwin Omar Alulema Flores
 Integrantes: Almagro Henry, Guaman Stalyn, Romero Henry
 
 # 1. OBJETIVOS
+
+Comprobar por medios experimentales el teorema de maxima transferencia de potencia por medio de un circuito de practica para asegurar que Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
+1.3. INFORMACIÓN GENERAL
+
+La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS. El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
+
+
 # 2. MARCO TEORICO
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
