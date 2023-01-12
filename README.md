@@ -27,9 +27,15 @@ MATERIAL Y EQUIPO REQUERIDO
 13. 1 Protoboard
 
 ESQUEMA DEL CIRCUITO
+
 ![image](https://user-images.githubusercontent.com/116781677/211951419-08705a54-232e-4e8d-9441-1a3b0f09800d.png)
 
+CIRCUITO ARMADO EN DCACLAB
 
+![image](https://user-images.githubusercontent.com/116781677/211952694-9f45243d-70a1-47d7-97a0-bbf2ea7885d6.png)
+
+
+Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 # 5. VIDEO
