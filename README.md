@@ -1,10 +1,4 @@
-# Informe-Laboratorio-6
-
-Fundamento de circuitos Eléctricos
-
-Ing. Darwin Omar Alulema Flores
-
-Integrantes: Almagro Henry, Guaman Stalyn, Romero Henry
+![título](https://user-images.githubusercontent.com/116821721/212224388-b6d9b2b1-6e99-46a2-8789-c9616e236bc0.png)
 
 # 1. OBJETIVOS
 
@@ -15,10 +9,10 @@ Comprobar por medios experimentales el teorema de maxima transferencia de potenc
 La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS. El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
 
 
-
 # 2. MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/116819100/212220704-07c15dec-b3d1-45b1-bb07-792695cb010e.png)
+![image](https://user-images.githubusercontent.com/116821721/212224512-170c83d8-6712-479c-8d95-6ec93ad0414e.png)
 
 
 
