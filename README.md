@@ -74,7 +74,7 @@ Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla
     4.7K
 ![image](https://user-images.githubusercontent.com/116781677/212317493-6bf33542-be99-4b49-a3f1-dd87579c123d.png)
 
-Calcule las potencia consumida por RL, para cada valor dado
+Mida la potencia empleando un vatímetro en el software ACDCLAB en RL
 
     220
 ![image](https://user-images.githubusercontent.com/116781677/212318607-f283942f-faba-40eb-a09b-8c6ee3b51bb2.png)
