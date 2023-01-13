@@ -45,34 +45,34 @@ CIRCUITO ARMADO EN DCACLAB
 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla
 
     220
-![image](https://user-images.githubusercontent.com/116781677/212316695-d28a64d9-7de9-4af5-ad3a-6d130c58f88e.png)
+![image](https://user-images.githubusercontent.com/116781677/212334414-98822231-e605-43fe-9fa3-130632e79690.png)
 
     470
-![image](https://user-images.githubusercontent.com/116781677/212316818-ea805acf-913b-494a-9c6f-1b6637f6166d.png)
+![image](https://user-images.githubusercontent.com/116781677/212334333-394daa54-248a-47b6-8a82-b4c4319ac20a.png)
 
     680
-![image](https://user-images.githubusercontent.com/116781677/212316966-f1d1479c-7939-416b-8b0e-9b8c2f4e9aee.png)
+![image](https://user-images.githubusercontent.com/116781677/212334257-d629e81a-7e69-4e0e-8c8b-8a51e0ffe64a.png)
 
     820
-![image](https://user-images.githubusercontent.com/116781677/212317068-2f97f211-3733-4dba-890e-e498c9d6276e.png)
+![image](https://user-images.githubusercontent.com/116781677/212334176-94ceca50-764d-4896-bb4a-ad151593c772.png)
 
     1K
-![image](https://user-images.githubusercontent.com/116781677/212317157-e074d6ac-1129-45e9-b771-e51bb8f2f308.png)
+![image](https://user-images.githubusercontent.com/116781677/212334082-3b8915a9-f29e-4390-8e79-7b6f4ba5b243.png)
 
     1.5K
-![image](https://user-images.githubusercontent.com/116781677/212317235-776b469e-53ea-4093-957a-b3dc42b64848.png)
+![image](https://user-images.githubusercontent.com/116781677/212334018-53e3e54e-1e93-47cf-9cfc-fe6111bd5c12.png)
 
     1.8K
-![image](https://user-images.githubusercontent.com/116781677/212317283-7235b1fb-3bab-4030-9907-5b58d2c11b58.png)
+![image](https://user-images.githubusercontent.com/116781677/212333961-1334d8eb-78e2-4b15-a4c6-dd3306e621a7.png)
 
     2.2K
-![image](https://user-images.githubusercontent.com/116781677/212317343-db74aa41-a4a0-43fb-af18-c9caf4668bcc.png)
+![image](https://user-images.githubusercontent.com/116781677/212333780-b28561d9-1e48-4961-b39b-87bcab5160bd.png)
 
     3.9K
-![image](https://user-images.githubusercontent.com/116781677/212317426-7c8efb61-83d7-43e2-94cf-2ce563757217.png)
+![image](https://user-images.githubusercontent.com/116781677/212333703-9b79860d-704e-4562-95a5-2b49aa40dbf4.png)
 
     4.7K
-![image](https://user-images.githubusercontent.com/116781677/212317493-6bf33542-be99-4b49-a3f1-dd87579c123d.png)
+![image](https://user-images.githubusercontent.com/116781677/212333600-33ce89b3-a28b-4c9e-a0dc-1594c2ba1b43.png)
 
 Mida la potencia empleando un vatímetro en el software ACDCLAB en RL
 
