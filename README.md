@@ -17,6 +17,27 @@ La cantidad de potencia que una fuente de voltaje puede suministrar está limita
 
 
 # 2. MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/116819100/212220704-07c15dec-b3d1-45b1-bb07-792695cb010e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 MATERIAL Y EQUIPO REQUERIDO
