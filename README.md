@@ -107,8 +107,33 @@ Mida la potencia empleando un vatímetro en el software ACDCLAB en RL
 ![image](https://user-images.githubusercontent.com/116781677/212319597-0f098548-2068-4a4f-b569-632f106cc0b2.png)
 
 
-
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+TABLA DE DATOS
+
+![image](https://user-images.githubusercontent.com/116781677/212328981-49183412-59bb-4e84-884a-f76b64e79717.png)
+
+CALCULOS DE LA POTENCIA
+
+![image](https://user-images.githubusercontent.com/116781677/212329046-dbc5ea54-55a1-4db2-8b7e-748235b5fcf8.png)
+
+1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+Este teorema se cumple solo si la resistencia de carga es igual a la resistencia de Thevenin (RL=RTH), debido a esto no se cumple el teorema de Máxima transferencia de Potencia porque entre las 10 resistencias de carga expuestas en la tabla, no existe una resistencia de 1200 Ω que es el valor de la resistencia de Thevenin. Sin embargo, la resistencia de carga que generó la maxima potencia fue la resistencia de 1000 Ω generando una potencia de 0.0074 Watts.
+
+2. ¿Cuál fue la potencia máxima en RL? 
+
+0.0074 Watts
+
+3. ¿Para qué valor de RL se obtiene la MTP? 
+
+1000 Ω
+
+Grafique la curva Potencia vs RL y comente.
+
+![image](https://user-images.githubusercontent.com/116781677/212330732-3d01275b-c0ec-4d64-95d1-950ce35d2696.png)
+
+
 # 5. VIDEO
 # 6. CONCLUSIONES
  -La resistencia de thevenin marca el límite para la Máxima Transferencia de potencia efectva presente    en cualquier resistor.
